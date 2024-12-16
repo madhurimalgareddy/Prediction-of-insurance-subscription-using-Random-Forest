@@ -6,7 +6,7 @@
 * [Approach](#approach)
 ### Introduction
 In recent years, there has been a noticeable rise in accidents involving vehicles, emphasizing the importance of subscribing to insurance plans that provide financial security during such events. This project focuses on predicting customer behavior regarding insurance subscription by analyzing historical data, including past accidents, vehicle lifespan, income levels, and family status.
-[Insurance prediction.ipynb]()
+[Insurance prediction.ipynb](https://github.com/madhurimalgareddy/Prediction-of-insurance-subscription-using-Random-Forest/blob/main/Insurance%20prediction.ipynb)
 
 ### Technologies
 python
