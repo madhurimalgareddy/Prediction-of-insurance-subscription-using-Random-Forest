@@ -1,7 +1,13 @@
 # Prediction-of-insurance-subscription-using-Random-Forest
 ## Table of contents
+* [Introduction](#introduction)
+* [Technologies](#technologies)
+* [Algorithms](#algorithms)
+* [Approach](#approach)
 ### Introduction
-performed random forest on a customers dataset of a french bank to predit will of customers to subscribing the insurance further
+In recent years, there has been a noticeable rise in accidents involving vehicles, emphasizing the importance of subscribing to insurance plans that provide financial security during such events. This project focuses on predicting customer behavior regarding insurance subscription by analyzing historical data, including past accidents, vehicle lifespan, income levels, and family status.
+[Insurance prediction.ipynb]()
+
 ### Technologies
 python
 libraries
@@ -12,3 +18,8 @@ libraries
 ### Algorithms
 Random Forest
 ### Approach
+* step:1 - Understanding the problem. Here it is a classification problem which is based on two outcomes ;yes' or 'no'
+* step:2 - EDA
+* step:3 - Data preprocessing
+* step:4 - Modeling
+* step:5 - Evaluation
